@@ -136,7 +136,7 @@ nav a:hover::after{
     min-height: 100vh;
 	height: 100%;
 	width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 10,0.4),rgba(4,9,30,0.4)), url("../images/main.JPG");
+    background-image: linear-gradient(rgba(0, 0, 10,0.4),rgba(4,9,30,0.4)), url("../images/main.jpg");
     background-size: cover;
     background-position: center;
 }
