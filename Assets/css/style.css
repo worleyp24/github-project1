@@ -160,6 +160,12 @@ nav a:hover::after{
     font-size: var(--p-font);
     margin-bottom: 20px;
 }
+
+.home-links {
+    display: flex;
+    gap: 10px;
+}
+
 .home-btn {
 	display: inline-block;
     color:white;
